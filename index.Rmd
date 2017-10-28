@@ -11,7 +11,7 @@ My favorite website is [google](https://www.google.com).
 I like the [about page](about.html)
 
 ### Images
-#### Cow loves flowers
+#### Volha loves flowers
 <img src="images/IMG_3164.JPG" style="width:75%">
 
 
